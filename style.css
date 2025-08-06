@@ -78,16 +78,16 @@
 }
 
 .navbar a:hover{
-    color:black;
+    color:rgb(209, 47, 224);
     transform:scale(1.3)translateX(+5px);
 }
    
 
 .navbar{
     width: 78%;
-    height: 50px;
+    height: 45px;
     position:absolute;
-    background-color: #B8860B;
+    background-color: #000000;
     background-size:contain;
     justify-content:space-evenly;
     margin-left:22%;
